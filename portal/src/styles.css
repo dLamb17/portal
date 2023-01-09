@@ -1,0 +1,80 @@
+nav {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+button {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.requests {
+    margin: 20px;
+}
+
+.options a, .drawings-database a {
+    text-decoration: none;
+    color: black;
+}
+
+.icon-circle, .drawing {
+    margin-bottom: 10px;
+}
+
+.col{
+    margin-bottom: 20px;
+}
+
+.icons, .drawing {
+    height: 48px;
+    width: 48px;
+}
+
+@media (max-width: 480px){
+    nav {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+
+    .nav img {
+        height: 30px;
+        width: 100px;
+    }
+}
+
+@media (max-width: 768px){
+    nav {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+
+    .nav img {
+        height: 30px;
+        width: 100px;
+    }
+}
+
+@media (max-width: 1024px){
+    nav {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    
+    .nav img {
+        height: 30px;
+        width: 100px;
+    }
+}
