@@ -1,0 +1,18 @@
+nav {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+nav img {
+    height: 200px;
+	width: 200px;
+}
+
+p {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
